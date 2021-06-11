@@ -1,0 +1,14 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.fw-client</groupId>
+  <artifactId>fw-client</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>fw-client</name>
+  <dependencies>
+  	<dependency>
+  	<groupId>com.ioc.framework.core</groupId>
+	<artifactId>ioc-framework-core</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
+</project>
